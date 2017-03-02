@@ -12,7 +12,7 @@ import becker.robots.Thing;
  */
 /**
  *
- * @author anisoaraavram
+ * @author Hadida
  */
 public class JavaApplication1 {
 
